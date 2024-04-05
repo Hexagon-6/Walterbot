@@ -1,6 +1,6 @@
 # Walterbot
 Recreational Discord bot built using Discord's Javascript API
-
+#
 Walterbot will scan server messages and try to write them again using chemical symbols. For example:
 
 [User]: Hi Lucio!
